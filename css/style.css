@@ -1,45 +1,63 @@
+body
+{
 
-body {
-	margin: 0;
-	padding: 0;
-	font-family: Arial, sans-serif;
-
-	
-	
+font-family: 'Montserrat', sans-serif;
+margin: 1.5em;
 }
+
 main {
-	padding: 1em;
-	background-color: #2A2D6B;
-	color:#FDBA33;
-}
-h1 {
-	margin: 0;
-	font-size: 4em;
+max-width: 100%;
+height:auto;
 
 }
 
-.home-container{
-	max-width: 80%;
-	background-color: black;
-	height:500px;
-}
+
 img {
-	max-width: 100%;
+
+max-width: 100%;
+height:auto;
+}
+
+.logo{
+display:block;
+margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+h1 {
+font-family: 'Montserrat', sans-serif;
+font-weight: 800;
+text-align: center;
+}
+
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	text-align: center;
+}
+
+ .download {
+display: block;
+margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+
+}
+
+.download img {
+	align-items: center;
 }
 
 
-.image-grid {
+  
+}
+.image-grid img{
 
-	
-	padding: 5px;
+margin: 1em;
+display: block;
+border: 1px;
+border-radius: 25%;
+
 }
 
-.image-grid img {
-	display: block;
-	max-width: 200px;
-	max-height: 200px;
-	margin-bottom: 1em;
-	padding-top: 4em;
-	padding-bottom: 2em;
-	
-}
