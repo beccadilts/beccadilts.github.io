@@ -1,0 +1,45 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+
+	
+	
+}
+main {
+	padding: 1em;
+	background-color: #2A2D6B;
+	color:#FDBA33;
+}
+h1 {
+	margin: 0;
+	font-size: 4em;
+
+}
+
+.home-container{
+	max-width: 80%;
+	background-color: black;
+	height:500px;
+}
+img {
+	max-width: 100%;
+}
+
+
+.image-grid {
+
+	
+	padding: 5px;
+}
+
+.image-grid img {
+	display: block;
+	max-width: 200px;
+	max-height: 200px;
+	margin-bottom: 1em;
+	padding-top: 4em;
+	padding-bottom: 2em;
+	
+}
