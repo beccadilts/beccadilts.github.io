@@ -234,8 +234,8 @@ section {
 	position: relative;
 	margin-right: auto;
 	margin-left: auto;
-	width:40%;
-	height:60%;
+	width:20em;
+	height:32em;
 	background-color: #FFA91D;
 	border-radius: 25px;
 }
@@ -289,5 +289,16 @@ header a {
 	left:0;
 	max-width: 50%;
 	height:auto;
+}
+
+.bubble {
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	width:40%;
+	height:60%;
+	background-color: #FFA91D;
+	border-radius: 25px;
+}
 }
 
